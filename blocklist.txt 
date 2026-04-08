@@ -1,0 +1,32 @@
+# Pi-hole Blocklist
+
+0.0.0.0 doubleclick.net
+0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 googlesyndication.com
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 adtrafficquality.google
+0.0.0.0 pubmatic.com
+0.0.0.0 image2.pubmatic.com
+0.0.0.0 admanmedia.com
+0.0.0.0 cs.admanmedia.com
+0.0.0.0 criteo.com
+0.0.0.0 ssp-sync.criteo.com
+0.0.0.0 adsrvr.org
+0.0.0.0 match.adsrvr.org
+0.0.0.0 bidswitch.net
+0.0.0.0 x.bidswitch.net
+0.0.0.0 turn.com
+0.0.0.0 ad.turn.com
+0.0.0.0 outbrain.com
+0.0.0.0 b1sync.outbrain.com
+0.0.0.0 newsroom.bi
+0.0.0.0 events.newsroom.bi
+0.0.0.0 agma-analytics.de
+0.0.0.0 pbc.agma-analytics.de
+0.0.0.0 ivwbox.de
+0.0.0.0 ioam.de
+0.0.0.0 nugg.ad
+0.0.0.0 adnxs.com
+0.0.0.0 taboola.com
+0.0.0.0 taboolasyndication.com
