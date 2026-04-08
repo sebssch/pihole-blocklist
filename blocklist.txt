@@ -30,3 +30,9 @@
 0.0.0.0 adnxs.com
 0.0.0.0 taboola.com
 0.0.0.0 taboolasyndication.com
+0.0.0.0 adform.net
+0.0.0.0 adformdsp.net
+0.0.0.0 openx.net
+0.0.0.0 nexx360.io
+0.0.0.0 r2b2.cz
+0.0.0.0 betweendigital.com
